@@ -1,0 +1,2 @@
+In Python you can program data visualizations, build video games and build web applications. 
+In Python you can do these things can be onde through the use of lists, datatypes if statements, dictionaries and classes. In the end of this book I will even make an Alien invasion game.
